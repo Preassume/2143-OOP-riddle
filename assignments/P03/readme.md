@@ -4,4 +4,4 @@
 
 ### Screenshot
 
-![alt text]("best screenshot ever.png"?raw=true)
+![alt text](best_screenshot_ever.png?raw=true)
